@@ -74,7 +74,7 @@ Repeat these steps for as many temperature probe bundles are needed. One bundle 
 <p align="center"><img src="Photos/tempprobeepoxy.png" width="600">
 
 ## Step 5: Stack the Arduino, CBASS-R Shield, and TFT Display with the SD Card Extender  
-The Arduino, CBASS-R Shield, and TFT Display all stack on top of each other with the stacking pins on the bottom of each piece. Start off with the Arduino and stack the CBASS-R shield into the Arduino. Next, put the SD card extender into the SD card port of the CBASS_R shield and fold the excess ribbon on top of the CBASS-R Shield. Finally, stack the TFT display on top of the CBASS-R to complete the controller "sandwich".  
+The Arduino, CBASS-R Shield, and TFT Display all stack on top of each other with the stacking pins on the bottom of each piece. Start off with the Arduino and stack the CBASS-R shield into the Arduino. The sd card port on CBASS-R shield goes over the power input on the Arduino. Next, put the SD card extender into the SD card port of the CBASS_R shield and fold the excess ribbon on top of the CBASS-R Shield. Finally, stack the TFT display on top of the CBASS-R to complete the controller "sandwich".  
 
 <p align="center"><img src="Photos/Arduino_Sandwich.png" width="600">
 
