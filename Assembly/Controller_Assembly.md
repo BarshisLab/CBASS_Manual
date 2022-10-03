@@ -63,15 +63,22 @@ Adafruit offers directions on how to [test your TFT screen](https://learn.adafru
 ## Step 4: Solder the temperature sensors to a 4 pin connector  
 All four [temperature probes](https://www.amazon.com/gp/product/B00EU5U182/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1&pldnSite=1) are wired together to a single **Male** [4 pin connector](https://www.adafruit.com/product/744) with the connections sealed in aquarium epoxy.  
 
-Start by stripping the red, yellow, and black wires at the end of each temp probe cord so about 3/4" of the inner copper wire is exposed. In groups of two, twist the corresponding copper wire from each colored wire together. (i.e. take two separate temp probes and twist the stripped part from both red wires together, then the black, then the yellow). Next, twist the designated colored wires between the coupled temperature probes. 
+1) Start by stripping the red, yellow, and black wires at the end of each temp probe cord so about 3/4" of the inner copper wire is exposed.  
 
-Strip about 3/4" from the red, yellow, and black wires on the Male 4 pin connector wire and snip off the white wire. Wrap the exposed copper from the red wire on the 4 pin around your bundle of red wires from the temperature probes. Do the same for the other two colors. Solder each color connection separately and wrap the connection in electrical tape. i.e. You don't want the solder and metal of the red wire touching the black wire. Cut the bottom off of a 5mL tube (or other tube available of comparable size). Slide the plastic tube over where the temperature probes are connected to the 4 pin connector and fill with aquarium safe epoxy to water proof the connections.  
+2) In groups of two, twist the corresponding copper wire from each colored wire together. (i.e. take two separate temp probes and twist the stripped part from both red wires together, then the black, then the yellow).   
 
-Repeat these steps for as many temperature probe bundles are needed. One bundle is needed per controller. 
+3) twist the designated colored wires between the coupled temperature probes.  
+  
+4 & 5) Strip about 3/4" from the red, yellow, and black wires on the Male 4 pin connector wire and snip off the white wire. Wrap the exposed copper from the red wire on the 4 pin around your bundle of red wires from the temperature probes. Do the same for the other two colors. Solder each color connection separately and wrap the connection in electrical tape. i.e. You don't want the solder and metal of the red wire touching the black wire.   
 
-<p align="center"><img src="Photos/tempsensor4pin.png" width="600">   
+5) Cut the bottom off of a 5mL tube (or other tube available of comparable size). Slide the plastic tube over where the temperature probes are connected to the 4 pin connector and fill with aquarium safe epoxy to water proof the connections.  
 
-<p align="center"><img src="Photos/tempprobeepoxy.png" width="600">
+Repeat these steps for as many temperature probe bundles are needed. One bundle is needed per controller.
+
+<p align="center"><img src="Photos/tempsensor4pin.png" width="600">  
+
+
+<p align="center"><img src="Photos/Temp_Probe_Steps.png" width="1000"> 
 
 ## Step 5: Stack the Arduino, CBASS-R Shield, and TFT Display with the SD Card Extender  
 The Arduino, CBASS-R Shield, and TFT Display all stack on top of each other with the stacking pins on the bottom of each piece. Start off with the Arduino and stack the CBASS-R shield into the Arduino. The sd card port on CBASS-R shield goes over the power input on the Arduino. Next, put the SD card extender into the SD card port of the CBASS_R shield and fold the excess ribbon on top of the CBASS-R Shield. Finally, stack the TFT display on top of the CBASS-R to complete the controller "sandwich".  

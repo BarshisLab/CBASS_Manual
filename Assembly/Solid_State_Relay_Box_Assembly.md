@@ -31,7 +31,10 @@ Side C has two PG12 glands and inline circuit breakers.
 <p align="center"><img src="Photos/Relay_SideC.png" width="600">  
 
 
-## Step 2: Cut an 1/8" acrylic insert to fit the bottom of the enclosure
+## Step 2: Cut an 1/8" acrylic insert to fit the bottom of the enclosure  
+
+
+
 
 ## Step 3: Cut and drill holes in 1/6" aluminum sheet for relay shelves 
 
