@@ -41,7 +41,7 @@ Each tank requires a PVC light frame to hold up an [aquarium light](https://www.
 ## Step 6: Make a PVC manifold
 A manifold is needed to control water flow into water lines connected to each experimental tank. The manifold will connect to a [DC Pump](https://www.bulkreefsupply.com/mighty-jet-desktop-aio-dc-return-pump-326-gph-innovative-marine.html) placed in a water reservoir. 8 [valves](https://pentairaes.com/plastic-valve.html) are screwed into threaded holes on a 1/2" thick PVC piece with a cap glued to one side. 
 
-<p align="center"><img src="Photos/Manifold_CAD.png" width="700">    
+<p align="center"><img src="Photos/manifold_CAD.png" width="700">    
 
 ## Step : Assembling the tanks
 **Acrylic Dividers:** If using the dividers, they can be held in place in the tank with **aquarium safe silicone.** It is recommended to not add in the dividers until setting up at the experimental location. This prevents cracking during transport. Dividers can also be removed by scraping off the silicone. 
