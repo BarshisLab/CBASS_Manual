@@ -29,7 +29,7 @@ If the experiment requires a tank to be separated into two, 1/4" acrylic can be 
 ## Step 4: Cut PVC for light frames  
 Each tank requires a PVC light frame to hold up an [aquarium light](https://www.amazon.com/gp/product/B07BLXWQ3L/?th=1) and light diffuser over the tank. The dimensions and required pieces for one light frame are listed below using 1/2" PVC.
 
-<p align="center"><img src="Photos/PVC_lengths.png" width="700">  
+<p align="center"><img src="Photos/PVC_lengths.png" width="700">   
 <p align="center"><img src="Photos/PVC_diagram.png" width="600">
 
 ## Step 5: Cut light diffuser panels  
