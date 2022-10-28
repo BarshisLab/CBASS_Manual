@@ -68,12 +68,34 @@ This step could be completed without the DS9 being already thread through the en
 ## Step 7: Prep the AC input and output cables. 
 Cut extension cords are used for the AC output that the chillers and heaters plug into. 8 extension cord pieces with a female plug at one end are required for each relay box. An extra long (20-100') extension cord can be cut into 1 1/2' pieces and [female AC plugs](https://www.amazon.com/Leviton-Available-Clamptite-Connector-Thermoplastic/dp/B007QVW3MO/ref=asc_df_B007QVW3MO/?tag=hyprod-20&linkCode=df0&hvadid=167140365824&hvpos=&hvnetw=g&hvrand=17183973979235508773&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008553&hvtargid=pla-304972184133&psc=1) can be attached, or small (~2') extension cords can be purchased in bulk with the male ends cut off. 
 
-Strip the outer casing from ~12" of the exposed end of the extension cords. Starting from the bottom left cable gland on Side A of the enclosure, feed the stripped extension cord through the cable gland. Strip ~1/4" of casing from the internal black, green, and white wire. 
+Strip the outer casing from ~12" of the exposed end of the extension cords. Starting from the bottom left cable gland on Side A of the enclosure, feed the stripped extension cord through the cable gland. Strip ~1/4" of casing from the internal black, green, and white wire.  
+
+<p align="center"><img src="Photos/AC_output_cord.png" width="300"> 
 
 2 ~6' extension cords are required for the AC input. Cut off the **female** end of the extension cord and strip ~ 8" of the outer casing off to expose the inner black, white, and green wires. Cut the green and white wire to about 3" and strip 1/4" from the end. Keep the black wire to it's full length and strip ~1/4" from the end. 
 
-# Step 8: Plug in wires
-The black wire goes to channel 1 of the SSR, the green wire goes to the right side of the terminal block (across from red connector piece on terminal block), and the white wire goes to the left side of the terminal block. 
+# Step 8: Plug AC connections
+For the AC input (2 x 6' extension cords), feed the cord through the cable glands and connect the green wire to the left side of the terminal blocks (side with red metal connector) for both terminal blocks. The white wire connects to the right side (black metal connector side). The black wire will extend across the relays and plug into terminal #2 on one of the relays. Take scrap wire from the extension cord and jump terminal #2 for the 4 relays on each side of the relay box. The black wire from the AC input cords will connect to a top row relay's terminal 2.  
+
+<p align="center"><img src="Photos/AC_input_wiring.png" width="600"> 
+
+For the AC output, the black wire goes to channel 1 of the SSR, the green wire goes to the right side of the terminal block (across from red connector piece on terminal block), and the white wire goes to the left side of the terminal block. Do this for each relay going left to right (when looking at Side A of the enclosure) for the bottom row and then left to right for the top row. 
+
+<p align="center"><img src="Photos/SSR_layer_1_output.png" width="600">
+
+## Step 9: Begin connecting the DS9 wires. 
+
+Take jumper wire to jump the terminal 4 connection for each of the relays on the first row. This serves as a ground connection that needs to reach each relay from the ground wire on the DS9. Then connect the designated colored wire to each relay in terminal 3 as stated below. Make sure all connections are tight and cannot be pulled out easily.
+
+<p align="center"><img src="Photos/SSR_wired_first_row.png" width="600">
+
+## Step 10: Add the second layer of SSRs
+
+Screw the second aluminum shelf with relays attached to the standoffs. Connect the black AC input wires into terminal 2 of the jumped relays. Connect the black wires from the top level AC inputs to terminal 1 of on the top row relays. Jump the ground connection for the top row of relays in terminal 4. Connect the designated DS9 pin to each terminal 3 as stated below. 
+
+<p align="center"><img src="Photos/SSR_final_stack.png" width="600">
+
+
 
 
  
