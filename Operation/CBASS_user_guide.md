@@ -38,7 +38,7 @@ IMPORTANT NOTE: if you have all your chillers and heaters plugged in, make sure 
 
 <p align="center"><img src="Figures/Fig_3.png" width="700">   
 
-Figure 3. Screenshot of the main Arduino script showing the printdate section to be changed before every experiment (highlighted in yellow). This is important as it will be displayed in the log files for future reference.
+*Figure 3. Screenshot of the main Arduino script showing the printdate section to be changed before every experiment (highlighted in yellow). This is important as it will be displayed in the log files for future reference.*
 
 **5. Controller checks after successfully uploading script:** 
 Once the upload is successful, your Controller should immediately start running the new profiles, starting by displaying the text highlighted in Figure 3 as the printdate.
@@ -49,11 +49,11 @@ While the computer is connected to the Arduino, you can also open the Serial Mon
 
 <p align="center"><img src="Figures/Fig_4.png" width="700">  
   
-Figure 4. Photo of the LED extension cords that light up during the initialization phase after uploading the main Arduino script. The LED extension cords are white with translucent green plastic ends on either side. A faint orange light can be seen in the translucent green casing, indicating that power is currently on for those relays.
+*Figure 4. Photo of the LED extension cords that light up during the initialization phase after uploading the main Arduino script. The LED extension cords are white with translucent green plastic ends on either side. A faint orange light can be seen in the translucent green casing, indicating that power is currently on for those relays.*
 
 <p align="center"><img src="Figures/Fig_5.png" width="700"> 
    
-Figure 5. Photo of the display showing set temperatures (left) and actual temperature readings in the tanks (right). The coloured squares on the right indicate which relays are on - red for heating and blue for chilling.  
+*Figure 5. Photo of the display showing set temperatures (left) and actual temperature readings in the tanks (right). The coloured squares on the right indicate which relays are on - red for heating and blue for chilling.*  
 
 **6. Final checks, adjusting light settings, and adding corals:**
 Once the tanks have been filled with the desired source of seawater and the temperature ramps have been double-checked and started, we suggest rechecking that all temperature probes are in the correct tanks, and that all heaters and chillers are connected to the correct relays
