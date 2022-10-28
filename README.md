@@ -29,5 +29,8 @@ This repository contains the materials and instructions needed to build a Coral 
 * **Arduino:** Directory of scripts and libraries needed to run the CBASS  
 * **SD\_Card\_Input_Example:** Example of files on the microSD card used to set the temperature profile and recorded temperatures from an experiment 
 
+**Operation:**
+* **CBASS\_user\_guide.md:** Guide to running Arduino code for controllers and potential troubleshooting issues
+
 **Additional Resources:**  
 A full list of parts, assembly instructions, and user guide for the **CBASS-R Shield** are publicly available at [https://github.com/VeloSteve/CBASS-R-Shield](https://github.com/VeloSteve/CBASS-R-Shield) 
