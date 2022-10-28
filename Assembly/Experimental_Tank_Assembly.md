@@ -39,7 +39,7 @@ Each tank requires a PVC light frame to hold up an [aquarium light](https://www.
 <p align="center"><img src="Photos/tank_diffuser_setup.png" width="600"> 
 
 ## Step 6: Make a PVC manifold
-A manifold is needed to control water flow into water lines connected to each experimental tank. The manifold will connect to a [DC Pump](https://www.bulkreefsupply.com/mighty-jet-desktop-aio-dc-return-pump-326-gph-innovative-marine.html) placed in a water reservoir. 8 [valves](https://pentairaes.com/plastic-valve.html) are screwed into threaded holes on a 1/2" thick PVC piece with a cap glued to one side. 
+A manifold is needed to control water flow into water lines connected to each experimental tank. The manifold will connect to a [DC Pump](https://www.bulkreefsupply.com/mighty-jet-desktop-aio-dc-return-pump-326-gph-innovative-marine.html) placed in a water reservoir. 8 [valves](https://pentairaes.com/plastic-valve.html) are screwed into threaded holes on a 1/2" thick PVC piece with a cap glued to one side. A PVC ball valve (one end threaded) can be added to the water input end to help control with flow and a [threaded hose barb](https://www.usplastic.com/catalog/item.aspx?itemid=27798&v1=&v7=&gclid=Cj0KCQjw--2aBhD5ARIsALiRlwDIu03DNigM_h6-rpmZIfVe5Q690aRHX5aL5HVu7-6-admzaRu4skkaAjvvEALw_wcB) attached to tubing to go from the DC pump to the manifold.
 
 <p align="center"><img src="Photos/manifold_CAD.png" width="700">    
 

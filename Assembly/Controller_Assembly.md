@@ -17,7 +17,8 @@ Each side of the [enclosure](https://www.adafruit.com/product/905) requires mult
 Side A contains the 9SD connection port (H) for the CBASS-R shield and the 4 pin connector for the temperature probes (D). This requires an oval shaped hole to fit a 9S9 adaptor and a 29/64" hole in the center of the enclosure for a [PG7 gland](https://www.amazon.com/Cable-Gland-Plastic-Waterproof-Adjustable/dp/B06Y5HGYK2/ref=sr_1_3?keywords=pg11%2Bcable%2Bgland&qid=1561480735&s=hi&sr=1-3&pldnSite=1&th=1).
 
 <p align="center"><img src="Photos/controller4pin.png" width="600">  
-<p align="center"><img src="Photos/SideA_measurements.png" width="600">
+ 
+<p align="center"><img src="Photos/sideA_measurements.png" width="600">
 
 #### **Side B**
 
