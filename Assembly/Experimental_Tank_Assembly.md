@@ -3,12 +3,16 @@
 
 One CBASS setup controls the thermal profile of two experimental tanks. These tanks are made by retrofitting [Coleman Stacker Portable Coolers](https://www.amazon.com/Coleman-24-Can-Stacker-Portable-Cooler/dp/B00363PSBE) with aquarium chillers and water outflow ports. 
 
-Each cooler can be separated with an acrylic divider into four total partitions (2 per tank).
+Each cooler can be separated with an acrylic divider into four total partitions (2 per tank).  
+   
+---
+
+**IMPORTANT NOTE:** As of January 2023, the Coleman Party Stacker cooler has unfortunately been discontinued. New experimental tank options are currently being explored. Overall, the steps to create and the design of the tank will remain the same with some minor changes in the size of additional pieces (light frames, acrylic dividers, and eggcrate) or hole placement due to updated tank dimensions. The Barshis Lab is currently testing out [food storage bins](https://www.webstaurantstore.com/cambro-18269p148-18-x-26-x-9-white-poly-food-storage-box/21418269PWH.html?utm_source=google&utm_medium=cpc&utm_campaign=GoogleShopping&gclid=Cj0KCQiAnsqdBhCGARIsAAyjYjS5xgNlSeoKIYxaQmvTLIlvuuuqH5I_zpMlC7TSk1psaDML0N-pY4saAspHEALw_wcB) as potential new experimental tanks and this document will be updated when a final design plan has been decided. 
 
 ---  
 
 ## Step 1: Measure and drill holes for outflows  
-Each tank requires two holes for [3/4" bulkheads](https://www.bulkreefsupply.com/bulkhead-abs-slip-x-slip.html) for water outflow during the experiment. [Nylon elbows](https://www.usplastic.com/catalog/item.aspx?itemid=34064) can screw into the bulkhead fitting to allow for controlled water outflow with the potential to attach airline tubing to recycle water. Use a XX" hole saw bit to drill a hole 1.75" from the outside of the tank and 1" from the top. Do this on the left and right side of the tank. 
+Each tank requires two holes for [3/4" bulkheads](https://www.bulkreefsupply.com/bulkhead-abs-slip-x-slip.html) for water outflow during the experiment. [Nylon elbows](https://www.usplastic.com/catalog/item.aspx?itemid=34064) can screw into the bulkhead fitting to allow for controlled water outflow with the potential to attach airline tubing to recycle water. Use a 1 1/2" hole saw bit to drill a hole 1.75" from the outside of the tank and 1" from the top. Do this on the left and right side of the tank. 
 
 <p align="center"><img src="Photos/tank_bulkhead_measurements.png" width="800"> cd 
 
@@ -18,9 +22,11 @@ Each tank requires four equally spaced 1 1/4" holes for [NovoTech Ice Probe Chil
 <p align="center"><img src="Photos/tank_chiller_measurements.png" width="900"> 
 
 ## Step 3: Cut egg crate panel for tank base
-An [egg crate](https://www.lowes.com/pd/PLASKOLITE-Common-24-in-x-48-in-Actual-23-75-in-x-47-75-in-7-85-sq-ft-Louvered-Ceiling-Light-Panels/3280904) base is put on the bottom of each tank to hold coral fragments in place. Corals can be placed in the egg crate squares and secured with rubber bands. Egg crate can be cut with a band saw or cutting pliers. Two panels per tank can be cut that are XX" x XX". 
+An [egg crate](https://www.lowes.com/pd/PLASKOLITE-Common-24-in-x-48-in-Actual-23-75-in-x-47-75-in-7-85-sq-ft-Louvered-Ceiling-Light-Panels/3280904) base is put on the bottom of each tank to hold coral fragments in place. Corals can be placed in the egg crate squares and secured with rubber bands. Egg crate can be cut with a band saw or cutting pliers. Two panels per tank can be cut that are 10 1/4" x 7". 
 
-## Step 3: Cut acrylic dividers (optional) 
+<p align="center"><img src="Photos/eggcrate_dimensions.png" height ="500">
+
+## Optional Step: Cut acrylic dividers
 If the experiment requires a tank to be separated into two, 1/4" acrylic can be used to create dividers. Cut a 6" x 12" rectangle and use a belt sander to round the bottom corners of the divider so it sits more flush with the bottom of the tank.
 
 <p align="center"><img src="Photos/tank_empty_divider_CAD.png" height ="500"> 
@@ -43,7 +49,7 @@ A manifold is needed to control water flow into water lines connected to each ex
 
 <p align="center"><img src="Photos/manifold_CAD.png" width="700">    
 
-## Step : Assembling the tanks
+## Step 7: Assembling the tanks
 **Acrylic Dividers:** If using the dividers, they can be held in place in the tank with **aquarium safe silicone.** It is recommended to not add in the dividers until setting up at the experimental location. This prevents cracking during transport. Dividers can also be removed by scraping off the silicone. 
 
 **Bulkheads:** Screw the bulkheads into their designated holes with the flat side in the tank and the threaded end outside the tank. Screw the nylon elbows into the threaded end outside the tank. Attach tubing to the nylon elbows if controlled water outflow is needed.
