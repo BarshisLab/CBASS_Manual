@@ -29,6 +29,12 @@ This repository contains the materials and instructions needed to build a Coral 
 * **Arduino:** Directory of scripts and libraries needed to run the CBASS  
 * **SD\_Card\_Input_Example:** Example of files on the microSD card used to set the temperature profile and recorded temperatures from an experiment 
 
+**New March 2023 Zip files**
+* **CBASS-R_v1.2:** Latest set of Arduino files for CBASS-R v1.2 shield  
+* **ClockSetter:** Latest Clock Setter Arduino files for CBASS-R v1.2  
+* **Mac_libraries:** Latest set of Mac libraries needed to run the Arduino scripts 
+
+
 **Operation:**
 * **CBASS\_user\_guide.md:** Guide to running Arduino code for controllers and potential troubleshooting issues
 
