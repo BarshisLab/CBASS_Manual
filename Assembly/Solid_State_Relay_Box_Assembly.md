@@ -1,9 +1,8 @@
 # Solid State Relay Box Building Instructions
 ---
-The relay box connects directly to the controller via a 9S9 cable and houses 8 solid state relays (SSR)s that switch the chillers and heaters on and off within the experimental tanks. The relay box has two AC power inputs that connect to 8 power outputs through the relays. The controller tells the relays when to turn power on and off to maintain temperature. 
+The relay box connects directly to the controller via a DS9 cable and houses 8 solid state relays (SSR)s that switch the chillers and heaters on and off within the experimental tanks. The relay box has two AC power inputs that connect to 8 power outputs through the relays. The controller tells the relays when to turn power on and off to maintain temperature. 
 
-**NOTE:** This assembly guide is for building the solid state relay box if desired. There is a commercially available relay power bar for half the cost, weight, and size that performs the same function and is compatible with the controller.    
-[Robo-Tank Power Bar](https://www.robo-tank.ca/Reef-pi-Plug-and-Play-Hardware/Robo-Tank-120v-240v-AC-Power-Bar-Fully-Assembled)   
+**NOTE:** This assembly guide is for building the solid state relay box if desired. There is a commercially available [Robo-Tank Power Bar](https://www.robo-tank.ca/Reef-pi-Plug-and-Play-Hardware/Robo-Tank-120v-240v-AC-Power-Bar-Fully-Assembled) that performs the same function and is compatible with the controller. It is important to note that the Robo-Tank is only capable of powering one heater per outlet. Power splitters cannot be used to power two heaters per one outlet.   
 
 ---
 

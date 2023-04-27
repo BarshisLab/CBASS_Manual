@@ -1,15 +1,14 @@
-[DOI LINK]
-
 This repository includes an instructional guide to accompany the manuscript:
 
 # The Coral Bleaching Automated Stress System (CBASS): a low cost, portable system for the standardized empirical assessment of coral thermal limits
 
 **Authors:** Nicolas R. Evensen, Katherine E. Parker, Thomas A. Oliver, Stephen R. Palumbi, Cheryl A. Logan, James S. Ryan, Courtney N. Klepac, Gabriela Perna, Mark E. Warner, Christian R. Voolstra, Daniel J. Barshis  
-**Journal:**     
+**Journal:** Limnology and Oceanography: Methods     
 **Link:** [DOI LINK]
 
----
-This repository contains the materials and instructions needed to build a Coral Bleaching Automated Stress System (CBASS).
+---  
+
+This repository contains the materials and instructions needed to build a Coral Bleaching Automated Stress System (CBASS). Please use the discussions tab for any questions and troubleshooting with CBASS. 
 
 ---
 
@@ -29,13 +28,13 @@ This repository contains the materials and instructions needed to build a Coral 
 * **Arduino:** Directory of scripts and libraries needed to run the CBASS  
 * **SD\_Card\_Input_Example:** Example of files on the microSD card used to set the temperature profile and recorded temperatures from an experiment 
 
-**New March 2023 Zip files**
+**New March 2023 Zip Files:**  
 * **CBASS-R_v1.2:** Latest set of Arduino scripts for CBASS-R v1.2 shield  
 * **ClockSetter:** Latest Clock Setter Arduino scripts for CBASS-R v1.2  
 * **Mac_libraries:** Latest set of Mac Arduino libraries needed to run the Arduino scripts 
 * **Windows_libraries:** Latest set of Windows Arduino libraries needed to run the Arduino scripts 
 
-**Operation:**
+**Operation:**  
 * **CBASS\_user\_guide.md:** Guide to running Arduino code for controllers and potential troubleshooting issues
 
 **Additional Resources:**  
