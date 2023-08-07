@@ -4,7 +4,7 @@ This repository includes an instructional guide to accompany the manuscript:
 
 **Authors:** Nicolas R. Evensen, Katherine E. Parker, Thomas A. Oliver, Stephen R. Palumbi, Cheryl A. Logan, James S. Ryan, Courtney N. Klepac, Gabriela Perna, Mark E. Warner, Christian R. Voolstra, Daniel J. Barshis  
 **Journal:** Limnology and Oceanography: Methods     
-**Link:** [DOI LINK]
+**Link:**  [https://doi.org/10.1002/lom3.10555]( https://doi.org/10.1002/lom3.10555)
 
 ---  
 
@@ -15,9 +15,9 @@ This repository contains the materials and instructions needed to build a Coral 
 #### Repository Contents:
 
 **Assembly:**  
-* **Controller\_Assembly:** Instructions to build a controller 
-* **Solid\_State\_Relay\_Box\_Assembly:** Instructions to build a Solid State Relay box
-* **Experimental\_Tank\_Assembly:** Instructions to build the experimental tanks
+* **Controller\_Assembly:** Instructions to build a controller  
+* **Solid\_State\_Relay\_Box\_Assembly:** Instructions to build a Solid State Relay box  
+* **Experimental\_Tank\_Assembly:** Instructions to build the experimental tanks  
 * **Photos:** All pictures used in the .md files for this directory   
 
 **Materials:**   
@@ -31,7 +31,7 @@ This repository contains the materials and instructions needed to build a Coral 
 **New March 2023 Zip Files:**  
 * **CBASS-R_v1.2:** Latest set of Arduino scripts for CBASS-R v1.2 shield  
 * **ClockSetter:** Latest Clock Setter Arduino scripts for CBASS-R v1.2  
-* **Mac_libraries:** Latest set of Mac Arduino libraries needed to run the Arduino scripts 
+* **Mac_libraries:** Latest set of Mac Arduino libraries needed to run the Arduino scripts   
 * **Windows_libraries:** Latest set of Windows Arduino libraries needed to run the Arduino scripts 
 
 **Operation:**  
